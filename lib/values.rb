@@ -15,5 +15,4 @@ def get_the_values(groceries)
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
 }
-groceries.keys
 end
